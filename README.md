@@ -21,3 +21,5 @@ AEC Pay is a Web Application for **Anuradha Engineering College**, its main use 
 
 ### - Add Student
 [![](Images/add%20student.png)](https://github.com/Apurvanmorey/final-year-project/blob/main/Images/add%20student.png?raw=true)
+
+------------

@@ -5,19 +5,19 @@ AEC Pay is a Web Application for **Anuradha Engineering College**, its main use 
 ## Some Screenshots of this Web Application.
 
 ### - Login Page
-[![](Images/student-login.png)](https://github.com/Apurvanmorey/final-year-project/blob/main/Images/admin-dashboard.png?raw=true)
+[![](Images/student-login.png)](https://github.com/Apurvanmorey/final-year-project/blob/main/Images/student-login.png?raw=true)
 
 ### - Student Dashboard
-![](Images/student-dashboard.png)
+[![](Images/student-dashboard.png)](https://github.com/Apurvanmorey/final-year-project/blob/main/Images/student-dashboard.png?raw=true)
 
 ### - Student Fees Pay Page
-![](Images/pay-ffes.png)
+[![](Images/pay-ffes.png)](https://github.com/Apurvanmorey/final-year-project/blob/main/Images/pay-ffes.png?raw=true)
 
 ### - Admin Dashboard
-![](Images/admin-dashboard.png)
+[![](Images/admin-dashboard.png)](https://github.com/Apurvanmorey/final-year-project/blob/main/Images/admin-dashboard.png?raw=true)
 
 ### - Staff Dashboard
-![](Images/staff-dashboard.png)
+[![](Images/staff-dashboard.png)](https://github.com/Apurvanmorey/final-year-project/blob/main/Images/staff-dashboard.png?raw=true)
 
 ### - Add Student
-![](Images/add%20student.png)
+[![](Images/add%20student.png)](https://github.com/Apurvanmorey/final-year-project/blob/main/Images/add%20student.png?raw=true)

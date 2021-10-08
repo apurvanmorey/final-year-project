@@ -1,0 +1,5 @@
+RewriteEngine On
+ErrorDocument 404 HTTP://localhost/admin/notfound.php
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
